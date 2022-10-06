@@ -18,4 +18,4 @@ A Flask application to run on Raspberry pi as server and opens the home page in 
 
 ## App Demo
 
-![](./screen_recording.gif)
+![](/screen_recording.gif)
